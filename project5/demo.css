@@ -1,0 +1,22 @@
+.base{
+    width: 400px;
+    height: 400px;
+   display: flex;
+  
+}
+.inner-div{
+    width: 100px;
+    height: 100px;
+    background: #d25151;
+   position: relative;
+   z-index: 3;
+  
+}
+img{
+    width: 400px;
+    height: 400px;
+   object-fit: cover;
+   position: relative;
+   z-index: 2;
+
+}
